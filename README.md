@@ -1,1 +1,1 @@
-# korima-frontend
+Versión final# korima-frontend
